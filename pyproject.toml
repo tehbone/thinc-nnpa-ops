@@ -13,10 +13,7 @@ authors = [
 description = "Allow Thinc pipelines to utilize the Telum AI accelerator."
 license = "MIT"
 license-files = ["LICENSE"]
-dependencies = [
-    "thinc",
-    "thinc_bigendian_ops",
-]
+dependencies = ["thinc", "thinc_bigendian_ops"]
 
 [project.urls]
 Homepage = "https://github.com/tehbone/thinc_nnpa_ops"

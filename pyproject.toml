@@ -14,8 +14,8 @@ description = "Allow Thinc pipelines to utilize the Telum AI accelerator."
 license = "MIT"
 license-files = ["LICENSE"]
 dependencies = [
-    thinc,
-    thinc_bigendian_ops,
+    "thinc",
+    "thinc_bigendian_ops",
 ]
 
 [project.urls]

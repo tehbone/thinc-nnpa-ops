@@ -1,0 +1,1 @@
+thinc_bigendian_ops @ git+https://github.com/satyamg1620/thinc-bigendian-ops@main

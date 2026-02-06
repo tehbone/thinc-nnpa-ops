@@ -1,1 +1,1 @@
-from .nnpa_ops import BigEndianOps # noqa
+from .nnpa_ops import NnpaOps # noqa
